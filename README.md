@@ -23,4 +23,6 @@ Humidity in percentage
 Visualization – Presents the data clearly using a colorful bar chart via matplotlib.
 
 
+OUTPUT=![Image](https://github.com/user-attachments/assets/38cb16fd-bcfd-4125-9ea0-667508ff8c2b)
+
 
