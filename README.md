@@ -1,2 +1,13 @@
 # Api-integration-and-visualization
-fetch a data from whether map Api and represent on graph
+COMPANY = CODTECH IT SOLUTIONS
+
+NAME = AAKASH PASWAN
+
+INTERN ID : CT04DG1070
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION:4 WEEKS
+
+MENTOR NEELA SANTOSH
+
